@@ -1,0 +1,85 @@
+﻿@model IEnumerable<TPWEB1.Models.Membres>
+
+@{
+    ViewBag.Title = "chercherMembre";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Liste des membres</h1>
+
+<p>
+    @Html.ActionLink("Nouveau membre", "Create") @*ici*@
+</p>
+<div>
+    <form action="/Membre/chercherMembre" name="formSearch" class="navbar-form navbar-left" role="search" method="post">
+        <div class="form-group">
+            <input type="text" name="nom" class="form-control" placeholder="nom ou prénom">
+        </div>
+        <button type="submit" class="btn btn-default">Rechercher / Tous</button>
+    </form>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prénom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date_naissance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Courriel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Téléphone)
+        </th>
+        <th>
+            @Html.Label("Emprunts")
+        </th>
+        <th>
+            @Html.Label("Livres non rendus")
+        </th>
+        <th>
+            @Html.Label("Code postal")
+        </th>
+        <th></th>
+</tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nom)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prénom)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date_naissance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Courriel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Téléphone)
+        </td>
+        <td>
+            @TPWEB1.Models.SqlQuery.detailsEmprunts(item.idMembre)["nbLivreEmp"]
+        </td>
+        <td>
+            @TPWEB1.Models.SqlQuery.detailsEmprunts(item.idMembre)["nbLivreNonRetournés"]
+        </td>
+        <td>
+            <a href="/Adresse/Index">@Html.DisplayFor(modelItem => item.Adresses.Code_postal)</a>
+        </td>
+        <td>
+            @Html.ActionLink("Editer", "Edit", new { id = item.idMembre }) |
+            @Html.ActionLink("Details", "Details", new { id = item.idMembre }) |
+            @Html.ActionLink("Effacer", "Delete", new { id1 = item.idMembre, id2 = item.idAdresse })
+        </td>
+    </tr>
+}
+
+</table>

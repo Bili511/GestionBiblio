@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-default">   
+        <div class="container-fluid">
+            <div class="navbar-header">
+                @Html.ActionLink("Accueil", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="false">
+                        Gestion de la bibliothèque <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li>@Html.ActionLink("Gestion des membres", "Index", "Membre")</li>
+                        <li>@Html.ActionLink("Gestion des livres", "Index", "Livre")</li>
+                        <li>@Html.ActionLink("Gestion des emprunts", "Index", "Emprunt")</li>
+                    </ul>
+                </li>
+                <li>@Html.ActionLink("Gestion des retards", "Index", "Retard")</li> 
+                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>                  
+            </ul>
+            </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Bibliothèque communautaire</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/Content/css")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

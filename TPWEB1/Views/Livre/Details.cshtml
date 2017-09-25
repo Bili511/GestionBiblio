@@ -1,0 +1,59 @@
+﻿@model TPWEB1.Models.Livres
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Livres</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ISBN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ISBN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Titre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Titre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Auteur)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Auteur)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Année_Édition)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Année_Édition)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Catégorie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Catégorie)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idLivre }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

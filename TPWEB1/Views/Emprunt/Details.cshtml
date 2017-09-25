@@ -1,0 +1,51 @@
+﻿@model TPWEB1.Models.Emprunts
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Emprunts</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Livres.ISBN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Livres.ISBN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Membres.Nom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Membres.Nom)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date_Emprunt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date_Emprunt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date_Retour)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date_Retour)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idEmprunt }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

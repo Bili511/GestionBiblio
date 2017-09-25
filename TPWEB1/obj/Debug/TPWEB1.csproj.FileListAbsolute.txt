@@ -1,0 +1,237 @@
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\ApplicationInsights.config
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\csc.exe
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\vbc.exe
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\TPWEB1.dll.config
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\TPWEB1.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\TPWEB1.pdb
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Antlr3.Runtime.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\EntityFramework.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\EntityFramework.SqlServer.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.AI.Web.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Newtonsoft.Json.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.Helpers.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.Mvc.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.Optimization.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.Providers.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.Razor.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.WebPages.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\WebGrease.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\EntityFramework.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\EntityFramework.SqlServer.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.AI.Web.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.Providers.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.Helpers.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.Mvc.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.Optimization.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.Razor.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.WebPages.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Antlr3.Runtime.pdb
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\bin\Newtonsoft.Json.xml
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\obj\Debug\TPWEB1.csprojResolveAssemblyReference.cache
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\obj\Debug\TPWEB1.dll
+C:\Users\ilies\Desktop\TPWEB1\TPWEB1\obj\Debug\TPWEB1.pdb
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\ApplicationInsights.config
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\csc.exe
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\vbc.exe
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\TPWEB1.dll.config
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\TPWEB1.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\TPWEB1.pdb
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Antlr3.Runtime.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\EntityFramework.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\EntityFramework.SqlServer.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.AI.Web.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Newtonsoft.Json.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.Helpers.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.Mvc.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.Optimization.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.Providers.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.Razor.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.WebPages.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\WebGrease.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\EntityFramework.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\EntityFramework.SqlServer.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.AI.Web.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.Providers.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.Helpers.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.Mvc.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.Optimization.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.Razor.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.WebPages.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Antlr3.Runtime.pdb
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\bin\Newtonsoft.Json.xml
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\obj\Debug\TPWEB1.csprojResolveAssemblyReference.cache
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\obj\Debug\TPWEB1.dll
+C:\Users\ilies\Desktop\Archive TP1Web\TPWEB1\TPWEB1\obj\Debug\TPWEB1.pdb
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\ApplicationInsights.config
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\csc.exe
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\vbc.exe
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\TPWEB1.dll.config
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\TPWEB1.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\TPWEB1.pdb
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Antlr3.Runtime.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\EntityFramework.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\EntityFramework.SqlServer.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.AI.Web.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Newtonsoft.Json.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.Helpers.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.Mvc.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.Optimization.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.Providers.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.Razor.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.WebPages.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\WebGrease.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\EntityFramework.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\EntityFramework.SqlServer.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.AI.Web.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.Providers.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.Helpers.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.Mvc.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.Optimization.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.Razor.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.WebPages.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Antlr3.Runtime.pdb
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\bin\Newtonsoft.Json.xml
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\obj\Debug\TPWEB1.csprojResolveAssemblyReference.cache
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\obj\Debug\TPWEB1.dll
+C:\Users\ilies\Desktop\tp temp\TPWEB1\TPWEB1\obj\Debug\TPWEB1.pdb
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\ApplicationInsights.config
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\csc.exe
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\System.Collections.Immutable.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\vbc.exe
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\VBCSCompiler.exe
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\roslyn\VBCSCompiler.exe.config
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\TPWEB1.dll.config
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\TPWEB1.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\TPWEB1.pdb
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Antlr3.Runtime.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\EntityFramework.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\EntityFramework.SqlServer.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.AI.Web.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.AI.WindowsServer.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.ApplicationInsights.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.Web.Infrastructure.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Newtonsoft.Json.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.Helpers.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.Mvc.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.Optimization.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.Providers.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.Razor.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.WebPages.Deployment.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.WebPages.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.WebPages.Razor.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\WebGrease.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\EntityFramework.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\EntityFramework.SqlServer.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.AI.Web.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.AI.WindowsServer.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.ApplicationInsights.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.Providers.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.Helpers.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.Mvc.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.Optimization.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.Razor.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.WebPages.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.WebPages.Deployment.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\System.Web.WebPages.Razor.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Antlr3.Runtime.pdb
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\bin\Newtonsoft.Json.xml
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\obj\Debug\TPWEB1.csprojResolveAssemblyReference.cache
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\obj\Debug\TPWEB1.dll
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\obj\Debug\TPWEB1.pdb
+D:\Dec\4eme session\Prog Web 2\1ere Partie\TP 1\TPWEB1\TPWEB1\obj\Debug\TPWEB1.csproj.CoreCompileInputs.cache

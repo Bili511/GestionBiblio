@@ -1,0 +1,87 @@
+﻿@model IEnumerable<TPWEB1.Models.Livres>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+   
+}
+
+<h2>Liste des livres</h2>
+
+<p>
+    @Html.ActionLink("Nouveau Livre", "Create")
+</p>
+
+<div>
+    <form action="/Livre/chercherLivre" name="formSearch" class="navbar-form navbar-left" role="search" method="post">
+        <div class="form-group">
+            <input type="text" name="titre" class="form-control" placeholder="Titre ou auteur">
+        </div>
+        <button type="submit" class="btn btn-default">Rechercher / Tous</button>
+    </form>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ISBN)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Titre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Auteur)
+        </th>
+        <th>
+            @Html.Label("Année édition")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Catégorie)
+        </th>
+        <th>
+            Disponibilité
+        </th>
+        <th> </th>
+    </tr>
+    
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ISBN)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Titre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Auteur)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Année_Édition)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Catégorie)
+        </td>
+        
+        @{
+            int EmpruntsId = TPWEB1.Models.SqlQuery.db.Database.SqlQuery<int>("select idLivre from Emprunts  where Date_Retour is null and idLivre =" + item.idLivre).FirstOrDefault<int>();
+            //Nullable<DateTime> dateRetour = TPWEB1.Models.SqlQuery.db.Database.SqlQuery<Nullable<DateTime>>("select Date_Retour from Emprunts where idLivre =" + item.idLivre).FirstOrDefault();
+
+            if ((EmpruntsId == item.idLivre))
+            {
+                <td><a href="/Membre/Index?id=@item.idLivre">Non disponible</a></td>
+            }
+            else
+            {
+                @Html.Raw("<td>Disponible</td>");
+            }
+        }       
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.idLivre }) |
+            @Html.ActionLink("Details", "Details", new { id=item.idLivre }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.idLivre })
+        </td>
+    </tr>
+}
+
+</table>

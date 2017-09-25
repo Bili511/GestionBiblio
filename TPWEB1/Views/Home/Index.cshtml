@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="site-main" id="sTop">
+    <div class="site-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <ul class="social-icons">
+                        <li><a href="#" class="fa fa-facebook"></a></li>
+                        <li><a href="#" class="fa fa-twitter"></a></li>
+                        <li><a href="#" class="fa fa-dribbble"></a></li>
+                        <li><a href="#" class="fa fa-linkedin"></a></li>
+                    </ul>
+                </div> <!-- /.col-md-12 -->                
+            </div> <!-- /.row -->
+        </div> <!-- /.container -->  
+    
+        <div class="main-header">
+            <form action="/Livre/chercherLivre" name="formSearch" id="myform" method="post">
+                <input type="text" name="titre" id="accueilSearch"  placeholder="Rechercher un livre ou un auteur">
+            </form>
+        </div> <!-- /.main-header -->     
+    </div> <!-- /.site-header -->
+    
+    <div class="site-slider">
+        <div class="slider">
+            <div class="flexslider">
+                <ul class="slides">
+                    <li>
+                        <div class="overlay"></div>
+                        <img src="~/Content/images/slide1.jpg" alt="">
+                        <div class="slider-caption visible-md visible-lg">
+                            <h2>Bibliothèque citoyenne</h2>
+                            <p>Au service de la culture...</p>
+                            <a href="#" class="slider-btn">Notre politique citoyenne!</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="overlay"></div>
+                        <img src="~/Content/images/slide2.jpg" alt="">
+                        <div class="slider-caption visible-md visible-lg">
+                            <h2>Bibliothèque mitoyenne</h2>
+                            <p>Plus proche de vous que vous ne le pensez</p>
+                            <a href="#" class="slider-btn">centres d'intérêt!</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="overlay"></div>
+                        <img src="~/Content/images/slide3.jpg" alt="">
+                        <div class="slider-caption visible-md visible-lg">
+                            <h2>Bibliothèque moderne</h2>
+                            <p>Services impeccables...</p>
+                            <a href="#" class="slider-btn">Nos services!</a>
+                        </div>
+                    </li>
+                </ul>
+            </div> <!-- /.flexslider -->
+        </div> <!-- /.slider -->
+    </div> <!-- /.site-slider -->
+</div> <!-- /.site-main -->
+

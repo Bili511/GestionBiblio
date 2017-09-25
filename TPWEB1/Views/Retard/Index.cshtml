@@ -1,0 +1,59 @@
+﻿@model IEnumerable<TPWEB1.Models.Membres>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Liste des membres en défaut</h2>
+
+<table class="table">
+    <tr>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.Nom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prénom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Courriel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Téléphone)
+        </th>
+      
+        <th>
+            Nombre de livres non rendus
+        </th>
+        <th>
+            Envoyer une notification
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.Nom)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prénom)
+        </td>       
+        <td>
+            @Html.DisplayFor(modelItem => item.Courriel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Téléphone)
+        </td>
+        <td>
+            @TPWEB1.Models.SqlQuery.detailsEmprunts(item.idMembre)["nbLivreNonRetournés"]
+        </td>
+        <td>
+            <a href="#">@item.Courriel</a>
+        </td>
+        
+    </tr>
+}
+
+</table>

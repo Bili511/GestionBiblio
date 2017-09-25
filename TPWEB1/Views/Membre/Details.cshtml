@@ -1,0 +1,73 @@
+﻿@model TPWEB1.Models.Membres
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Membres</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Adresses.Code_postal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Adresses.Code_postal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nom)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Prénom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Prénom)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date_naissance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date_naissance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Courriel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Courriel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Téléphone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Téléphone)
+        </dd>
+        <dt>
+            @Html.Label("Nombre de livres empruntés")
+        </dt>
+
+        <dd>
+            @TPWEB1.Models.SqlQuery.detailsEmprunts(Model.idMembre)["nbLivreEmp"]
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idMembre }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

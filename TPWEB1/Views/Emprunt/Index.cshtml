@@ -1,0 +1,67 @@
+﻿@model IEnumerable<TPWEB1.Models.Emprunts>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Liste des emprunts</h2>
+
+<p>
+    @Html.ActionLink("Nouvel emprunt", "Create")
+</p>
+<div>
+    <form action="/Emprunt/chercherEmprunt" name="formSearch" class="navbar-form navbar-left" role="search" method="post">
+        <div class="form-group">
+            <input type="text" name="emprunt" class="form-control" placeholder="titre nom ou prénom">
+        </div>
+        <button type="submit" class="btn btn-default">Rechercher / tous</button>
+    </form>
+</div>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Livres.ISBN)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Livres.Titre)
+        </th>
+        <th>
+            @Html.DisplayName("Emprunté par")
+        </th>
+        <th>
+            @Html.Label("Date emprunt")
+        </th>
+        <th>
+            @Html.Label("Date retour")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Livres.ISBN)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Livres.Titre)
+        </td>
+        <td>
+            @item.Membres.Nom &nbsp;  @item.Membres.Prénom 
+        </td>       
+        <td>
+            @Html.DisplayFor(modelItem => item.Date_Emprunt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date_Retour)
+        </td>
+         <td>
+            @Html.ActionLink("Editer", "Edit", new { id=item.idEmprunt }) |
+            @Html.ActionLink("Details", "Details", new { id=item.idEmprunt }) |
+            @Html.ActionLink("Effacer", "Delete", new { id=item.idEmprunt })
+        </td>
+    </tr>
+}
+
+</table>
